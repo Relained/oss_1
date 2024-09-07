@@ -16,7 +16,7 @@ This is my initial repo of my account.
 This Repo will be used in OSS class.
 - - -
 
-## 2. Resolution
+## 2. This semester's Resolution
 
 1. Lose my **weight**.
 2. Make full notes of my college knowledge in **Obsidan** note.
