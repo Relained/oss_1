@@ -20,3 +20,5 @@ This Repo will be used in OSS class.
 
 1. Lose my **weight**.
 2. Make full notes of my college knowledge in **Obsidan** note.
+
+More info
